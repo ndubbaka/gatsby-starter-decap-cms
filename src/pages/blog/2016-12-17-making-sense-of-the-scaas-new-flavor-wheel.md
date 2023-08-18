@@ -1,33 +1,21 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: TV On Wheels
 date: 2016-12-17T15:04:10.000Z
+description: A TV mounted to a stand with wheels is rolled from one classroom to another.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/tv-on-wheels-sakshi.jpg
 tags:
-  - flavor
-  - tasting
+  - TV-On-Wheels
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/tv-on-wheels-sakshi.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+Having one TV or Projector room per school limits the number of students & teachers than can simultaneously access digital content. Also children have to waste time in moving back & forth between Projector room & classroom. Having TV or projector in every classroom is very expensive for school & also a wastage of resources if not being used at any given time period.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+These limitations are solved in "TV On Wheels" program, where a TV mounted to a stand with wheels is rolled from one classroom to another. Teachers can show wide range of digital content in TV to the students in classroom.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+* Teachers can use USB drive connected to TV & show educational videos, navigating the video through TV remote.
+* Teachers can also cast their phone onto TV and show & interact with educational apps on the phone
+* Educational CDs can be played in TV using a CD player or computer connected to TV, Everything mounted to TV stand
