@@ -1,50 +1,43 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: We provide technical solutions in areas of education & health.
+image: /img/innovation-machine-learning-technology.jpg
+heading: Changing the World, One Line of Code at a Time!
+subheading: Changing the World, One Line of Code at a Time!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Us
+  description: We are a startup with 3 employees currently and looking to hire 2
+    interns. We have few clients in education & health sectors and we provide
+    tech solutions & services to them. We built few products for our clients and
+    continuing to add more features to those products & create new innovative
+    products. We believe in simple, scalable, affordable solutions to complex
+    problems.
+description: You will have great team with experience & expertise to work with
+  and great products to work on & feedback from our clients to guide the product
+  development.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/tv-on-wheels-sakshi.jpg
+      text: >-
+        Having one TV or Projector room per school limits the number of students
+        & teachers than can simultaneously access digital content. Also children
+        have to waste time in moving back & forth between Projector room &
+        classroom. Having TV or projector in every classroom is very expensive
+        for school & also a wastage of resources if not being used at any given
+        time period.
+
+        These limitations are solved in "TV On Wheels" program, where a TV mounted to a stand with wheels is rolled from one classroom to another. Teachers can show wide range of digital content in TV to the students in classroom.
+    - image: /img/empty-kiosk-landcape_0.jpg
+      text: >-
+        Tablets Behind Bars:
+
+        A Tablet is placed in a case made of Iron bars,
+
+        Iron case is locked with chain to a pillar in a school corridor
+
+        This gives students, 24/7 access(Before school, lunch break, after school...) to high quality offline educational apps within the Tablet.
+
+        Students can learn themselves or from other students in the absence of teacher.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
