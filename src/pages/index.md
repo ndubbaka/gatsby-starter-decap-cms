@@ -18,26 +18,13 @@ description: You will have great team with experience & expertise to work with
 intro:
   blurbs:
     - image: /img/tv-on-wheels-sakshi.jpg
-      text: >-
-        Having one TV or Projector room per school limits the number of students
-        & teachers than can simultaneously access digital content. Also children
-        have to waste time in moving back & forth between Projector room &
-        classroom. Having TV or projector in every classroom is very expensive
-        for school & also a wastage of resources if not being used at any given
-        time period.
-
-        These limitations are solved in "TV On Wheels" program, where a TV mounted to a stand with wheels is rolled from one classroom to another. Teachers can show wide range of digital content in TV to the students in classroom.
+      text: A TV(₹12,000) mounted to a stand with wheels(₹3,949) is rolled from one
+        classroom to another. Teachers can show wide range of digital content in
+        TV to the students in classroom.
     - image: /img/empty-kiosk-landcape_0.jpg
-      text: >-
-        Tablets Behind Bars:
-
-        A Tablet is placed in a case made of Iron bars,
-
-        Iron case is locked with chain to a pillar in a school corridor
-
-        This gives students, 24/7 access(Before school, lunch break, after school...) to high quality offline educational apps within the Tablet.
-
-        Students can learn themselves or from other students in the absence of teacher.
+      text: A 7 inch Android Tablet(< ₹2,500) is placed in a case made of Iron bars to
+        give students, 24/7 access(Before school, lunch break, after school...)
+        to high quality offline educational apps within the Tablet.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
