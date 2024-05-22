@@ -14,6 +14,10 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
+        <img
+            src={logo}
+            alt="Pragament"
+          />
           <Link to="/" className="navbar-item" title="Logo">
   <span class="site-name">Pragament</span>
           </Link>
