@@ -1,3 +1,12 @@
-{
-  "foo":"bar"
-}
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pragament.school_erp_parent_app",
+      "sha256_cert_fingerprints": [
+        "9C:80:01:DD:04:CD:17:41:6C:F4:A3:4F:68:1D:3B:35:6F:6C:3D:BB:ED:B9:E8:4D:B5:93:7E:E4:B3:9E:62:29"
+      ]
+    }
+  }
+]
