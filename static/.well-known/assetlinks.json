@@ -8,5 +8,15 @@
         "9C:80:01:DD:04:CD:17:41:6C:F4:A3:4F:68:1D:3B:35:6F:6C:3D:BB:ED:B9:E8:4D:B5:93:7E:E4:B3:9E:62:29"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pragament.shared_travel_planner",
+      "sha256_cert_fingerprints": [
+        "10:cc:cc:f5:35:09:5d:e8:70:13:eb:91:82:33:33:ff:cf:3f:78:c9:91:bd:6f:8c:78:5f:75:dd:8b:a1:ad:99"
+      ]
+    }
   }
 ]
